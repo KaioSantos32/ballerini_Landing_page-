@@ -1,0 +1,33 @@
+.conteudo__secundario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.conteudo__secundario-titulo{
+    border-top: 0.4px solid #FFF2E7;
+
+    color: #FFF2E7;
+
+    font-family: Righteous, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+
+    padding-top: 48px;
+    margin-bottom: 16px;
+
+}
+
+.conteudo__secundario-paragrafo{
+    color:#ECD6C4;
+
+    font-family: Sarala, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.conteudo__secundario-paragrafo strong{
+    font-weight: 700;}
+
